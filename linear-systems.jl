@@ -1,11 +1,11 @@
-#= 
+#=
 This program calculates a system of linear equations for two variables
 and three variables
 =#
 
-#= 
+#=
 For any linear system:
-  Sample: 
+  Sample:
       a1x + b1y = c1
       a2x + b2y = c2
 
